@@ -15,16 +15,16 @@ function App() {
             <div>
             <p><b>1</b> - &nbsp;JavaScript short-circuiting: <Link to="/quiz-questions/1">Start</Link> </p>
             <p><b>2</b> - &nbsp;Array and object destructuring: <Link to="/quiz-questions/2">Start</Link> </p>
-            <p><b>3</b> - &nbsp;.map(), .filter(), and .find(): <Link to="/quiz-questions/1">Start</Link> </p>
-            <p><b>4</b> - &nbsp;UI rendering: <Link to="/quiz-questions/2">Start</Link> </p>
-            <p><b>5</b> - &nbsp;Components and prompt: <Link to="/quiz-questions/1">Start</Link> </p>
+            <p><b>3</b> - &nbsp;.map(), .filter(), and .find(): <Link to="/quiz-questions/3">Start</Link> </p>
+            <p><b>4</b> - &nbsp;UI rendering: <Link to="/quiz-questions/4">Start</Link> </p>
+            <p><b>5</b> - &nbsp;Components and prompt: <Link to="/quiz-questions/5">Start</Link> </p>
             </div>
             <div>
-            <p><b>6</b> - &nbsp;State and hooks: <Link to="/quiz-questions/2">Start</Link> </p>
-            <p><b>7</b> - &nbsp;Single Page application: <Link to="/quiz-questions/1">Start</Link> </p>
-            <p><b>8</b> - &nbsp;useEffect hook: <Link to="/quiz-questions/2">Start</Link> </p>
-            <p><b>9</b> - &nbsp;useState hook: <Link to="/quiz-questions/2">Start</Link> </p>
-            <p><b>10</b> - &nbsp;Deploying Apps to Github Pages: <Link to="/quiz-questions/2">Start</Link> </p>
+            <p><b>6</b> - &nbsp;State and hooks: <Link to="/quiz-questions/6">Start</Link> </p>
+            <p><b>7</b> - &nbsp;Single Page application: <Link to="/quiz-questions/7">Start</Link> </p>
+            <p><b>8</b> - &nbsp;useEffect hook: <Link to="/quiz-questions/8">Start</Link> </p>
+            <p><b>9</b> - &nbsp;useState hook: <Link to="/quiz-questions/9">Start</Link> </p>
+            <p><b>10</b> - &nbsp;Deploying Apps to Github Pages: <Link to="/quiz-questions/10">Start</Link> </p>
             </div>
             </div>
 
